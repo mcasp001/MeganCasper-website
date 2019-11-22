@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Megan Casper's resume website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is a background on me and my interests. 
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+I am hoping to get involved in politics and make a difference in my community. 
